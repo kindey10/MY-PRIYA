@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .music-button {
     position: fixed;
     bottom: 20px;
@@ -17,3 +18,24 @@
     background: #ff1493;
     transform: scale(1.1);
   }
+=======
+.music-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #ff69b4;
+    border: none;
+    padding: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    color: white;
+    transition: transform 0.2s ease-in-out, background 0.3s ease;
+  }
+ 
+  .music-button:hover {
+    background: #ff1493;
+    transform: scale(1.1);
+  }
+>>>>>>> 940db08d09e1f50f8eb9617ae8745519374c1e8f
