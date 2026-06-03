@@ -28,7 +28,7 @@ const MusicButton = () => {
 
 
 export default MusicButton;
-=======
+
 import React, { useState, useRef } from "react";
 import { FaPlay, FaPause } from "react-icons/fa"; // Import icons
 import "./MusicButton.css";
@@ -58,4 +58,4 @@ const MusicButton = () => {
 
 
 export default MusicButton;
->>>>>>> 940db08d09e1f50f8eb9617ae8745519374c1e8f
+
